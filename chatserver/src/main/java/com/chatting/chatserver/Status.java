@@ -1,7 +1,7 @@
 package com.chatting.chatserver;
 
 public enum Status {
-    JSON,
+    JOIN,
     MESSAGE,
     LEAVE
 }
